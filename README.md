@@ -1,6 +1,6 @@
 # Projektna_naloga
 
-V tej projektni nalogi bom analiziral rezultate maratonov s petih olimpijskih iger v letih 2000-2016. 
+V tej projektni nalogi sem analiziral rezultate maratonov s petih olimpijskih iger v letih 2000-2016. 
 Podatke sem našel na [spletni strani olimpijskih iger](https://olympics.com/en).
 
 S pomočjo datoteke *prenos.ipynb* sem prenesel html s petih spletnih strani in jih shranil v pet ločenih datotek v mapi *podatki*.  
